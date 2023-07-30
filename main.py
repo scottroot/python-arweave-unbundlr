@@ -36,7 +36,7 @@ SIG_TYPES = {
         "pubLength": 32 * 32 + 1,
         "sigName": "multiAptos",
     },
-    "MULTIAPTOS": {
+    "TYPEDETHEREUM": {
         "sigLength": 65,
         "pubLength": 42,
         "sigName": "typedEthereum",
