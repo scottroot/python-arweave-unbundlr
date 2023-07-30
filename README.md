@@ -2,7 +2,7 @@
 Simple single-file script for quickly unbundling Arweave bundled transactions. For dev/research use
 
 #### What it is
-For quickly investigating bundle contents, research ANS104, or just working with use cases involving read-only bundle tasks.
+For quickly investigating bundle contents, research on ANS104, or just working with use cases involving read-only bundle tasks.
 
 #### What it's not
 This script does not include TX validation and does not create bundles, transactions or any other write-activity -- It is merely read-only.
